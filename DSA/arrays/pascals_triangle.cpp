@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int numRows) {
+    vector<vector<int>> generate(int numRows)
+    vector<int> getRow(int rowIndex) {
         vector<vector<int>> ans;
 
         for(int i = 0; i<= numRows-1; i++){
@@ -14,6 +15,7 @@ public:
         }
 
         return ans;
+        return ans[rowIndex];
         
     }
 };
