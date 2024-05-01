@@ -3,9 +3,8 @@
 class Solution:
     #Function to rotate an array by d elements in counter-clockwise direction. 
     def rotateArr(self,A,D,N):
-        A[:]=A[D:]+A[:N-D-1]
+        A[:]=A[D%N:]+A[:D%N]
         return A
-
 
 #{ 
  # Driver Code Starts
