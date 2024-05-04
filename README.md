@@ -1,7 +1,7 @@
 # Codes
 A collection of all my academic coding assignments and learning DSA.
 
-My coding profiles:
+My coding profiles: \
 LitCoder: https://litcoder.in/student-profile/share/YWExNzAxQHNybWlzdC5lZHUuaW4= \
 CodeChef: https://www.codechef.com/users/anna_albert21 \
 LeetCode: https://leetcode.com/u/annarhysa13/ \
